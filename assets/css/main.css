@@ -289,15 +289,6 @@ input, select, textarea {
 
 		}
 
-	.circular {
-		width: 300px;
-		height: 300px;
-		border-radius: 150px;
-		-webkit-border-radius: 150px;
-		-moz-border-radius: 150px;
-		background: url("images/HRC.jpg") no-repeat;
-		}
-
 /* Row */
 
 	.row {
@@ -1589,6 +1580,10 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		
+	.img-circle {
+		border-radius: 50%;
+	}
 
 /* List */
 
