@@ -1581,10 +1581,13 @@ input, select, textarea {
 				width: auto;
 			}
 		
-	.img-circle {
+	.img-circular {
 		border-radius: 50%;
-		width: 700px;
-		height: 700px;
+		width: 300px;
+		height: 300px;
+		background-image: url("images/HRC.jpg");
+		background-size: cover;
+		display: block;
 	}
 
 /* List */
