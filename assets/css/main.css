@@ -1583,8 +1583,8 @@ input, select, textarea {
 		
 	.img-circle {
 		border-radius: 50%;
-		width: 10%;
-		height: 10%;
+		width: 100px;
+		height: 100px;
 	}
 
 /* List */
